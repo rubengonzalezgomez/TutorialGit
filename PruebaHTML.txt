@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<titlte> EJEMPLO DE USO DE JAIME </title>
+
+</head>
+
+<body>
+
+	<header>
+		
+		<h1>MODELO 1 </h1>
+	</header>
+	
+	<section>
+	
+		<p>Al loren que lío</p>
+		
+	</section>
+	
+	<footer>
+		Pie de página
+	</footer>
+
+</body>
+</html>
